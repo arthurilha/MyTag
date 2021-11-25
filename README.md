@@ -24,9 +24,10 @@ MyTag é uma carteira digital que tem como objetivo facilitar o acesso e o compa
  <img width="300"  src="images/video.gif">
 </p>
   
-  <h1>Linguagens</h1>
+<h1>Linguagens</h1>
 <div style="display: inline_block"  align="center">
   <img align="center" alt="art-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="art-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="art-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
  </div>
