@@ -7,15 +7,21 @@ MyTag é uma carteira digital,tem como objetivo facilitar o acesso e o compartil
 MyTag possui as seguintes funcionalidades:
 </p>
 
+<img width="30" src="https://img.icons8.com/office/16/000000/whatsapp--v1.png"/>
+<img  width="35" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+<img  width="40" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+<img  width="40" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<img  width="40" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+<img width="40" src="https://img.icons8.com/carbon-copy/100/000000/money.png"/>
 
 <h1>Splash</h1>
 <p align="center">
- <img width="200" "
+ <img width="300" src="images/splash.png">
 </p> 
 
 <h1>Gif</h1>
 <p align="center">
- <img width="250" "
+ <img width="300"  src="images/video.gif">
 </p>
   
   <h1>Linguagens</h1>
